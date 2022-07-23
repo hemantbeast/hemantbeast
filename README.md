@@ -1,9 +1,8 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=hemantbeast"></h2>
 
-<a href="https://twitter.com/hemantbeast" target="_blank">
-  <img align="left" alt="Twitter" src="https://api.iconify.design/simple-icons/twitter.svg?color=white&height=22#gh-dark-mode-only" />
-  <img align="left" alt="Twitter" src="https://api.iconify.design/simple-icons/twitter.svg?color=dark&height=22#gh-light-mode-only" />
-</a>
+<img align="left" alt="Twitter" src="https://api.iconify.design/simple-icons/twitter.svg?color=white&height=22#gh-dark-mode-only">
+<img align="left" alt="Twitter" src="https://api.iconify.design/simple-icons/twitter.svg?color=dark&height=22#gh-light-mode-only">
+
 <a href="https://www.linkedin.com/in/hemantdesharma/" target="_blank">
   <img align="left" alt="Linkdein" src="https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=22#gh-dark-mode-only" />
   <img align="left" alt="Linkdein" src="https://api.iconify.design/simple-icons/linkedin.svg?color=dark&height=22#gh-light-mode-only" />
